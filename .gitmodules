@@ -1,6 +1,6 @@
 [submodule "stm32f7_mpu6050"]
-	path = stm32f7_mpu6050
+	path = accelerometer_code
 	url = https://github.com/Hey-Doc/stm32f7_mpu6050.git
 [submodule "Seoul-HW-Hackathon-21"]
-	path = Seoul-HW-Hackathon-21
+	path = Android_frontend
 	url = https://github.com/ichbinloo/Seoul-HW-Hackathon-21

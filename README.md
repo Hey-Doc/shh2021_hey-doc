@@ -1,5 +1,5 @@
 # Medical Emergency Real-time Monitoring System (WIP)
-![시스템 구성도](https://github.com/Hey-Doc/shh2021_hey-doc/blob/main/시스템 구성도.jpg?raw=true)
+![시스템 구성도]("https://github.com/Hey-Doc/shh2021_hey-doc/blob/main/시스템 구성도.jpg"?raw=true)
 This project uses a B-L4S5I-IOT01A discovery kit as a wearable healthcare device, and the user is meant to recieve their health information through an app.
 
 Currently it is consisted of just submodules because each of our team members had to work from their home. The submodules represent our learning of the H/W and S/W needed for this project and not our final product. We will update our repo during the hackathon on Jan. 1st, 2021 when we can meet for better collaboration.

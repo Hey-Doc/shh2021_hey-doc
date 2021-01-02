@@ -1,0 +1,9 @@
+[submodule "motion_detection"]
+	path = motion_detection
+	url = https://github.com/Hey-Doc/motion_detection.git
+[submodule "stm-aws_code"]
+	path = stm-aws_code
+	url = https://github.com/Hey-Doc/AWSlast.git
+[submodule "android-aws_app"]
+	path = android-aws_app
+	url = https://github.com/ichbinloo/Seoul-HW-Hackathon-21.git

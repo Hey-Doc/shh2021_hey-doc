@@ -2,8 +2,8 @@
 
 This project uses a B-L4S5I-IOT01A discovery kit as a wearable healthcare device, and the user is meant to recieve their health information through an app.
 
-![Project Structure](시스템%20구성도.png?raw=true)
+![Project Structure](시스템%20구성도%202.png?raw=true)
 
-Currently it is consisted of just submodules because each of our team members had to work from their home. The submodules represent our learning of the H/W and S/W needed for this project and not our final product. We will update our repo during the hackathon on Jan. 1st, 2021 when we can meet for better collaboration.
+It is consisted of a STM32 project of the folder name "stm-aws_code", and an Android app project of the folder name "android-aws_app", and also a folder called "motion_detection" where the acceleration data was trained to deterimine the situation of the person.
 
 The wearable device is used to detect medical emergencies, which could be fatal if not found early. It can read the acceleration info to detect if the user is falling down, and also can measure heart beat, and measure EMG.

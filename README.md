@@ -8,7 +8,7 @@ It is consisted of a STM32 project of the folder name "stm-aws_code", and an And
 
 The wearable device is used to detect medical emergencies, which could be fatal if not found early. It can read the acceleration info to detect if the user is falling down, and also can measure heart beat, and measure EMG.
 
-##repository summary
+## repository summary
 
 motion detection: python(sklearn) code to train decision tree for motion detection
 AWSlast: final integrated code

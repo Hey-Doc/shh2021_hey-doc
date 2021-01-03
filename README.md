@@ -11,6 +11,7 @@ The wearable device is used to detect medical emergencies, which could be fatal 
 ## repository summary
 
 motion detection: python(sklearn) code to train decision tree for motion detection
+
 AWSlast: final integrated code
 
 else: 가속도 센서, 아날로그 데이터 수집, aws 연결 등 세부 기능 구현
